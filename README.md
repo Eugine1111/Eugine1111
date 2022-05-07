@@ -1,9 +1,9 @@
-<h2 align="center"><img src="https://github.com/goldenfly/goldenfly/blob/main/logo1.png" width="30px" height="30px">&nbsp;&nbsp;&nbsp;To the Infinity and the Beyond! </h2>
+<h2 align="center">To the Infinity and the Beyond! </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
 <br>
 
-<h4 align="center">Skills</h4>
+<h2>Skills</h2>
 <hr>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
@@ -38,8 +38,6 @@
 		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/goldenfly/goldenfly/blob/main/Gmail.svg" />
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldenfly1111@gmail.com
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	</h5>
-	<h5>
 		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/goldenfly/goldenfly/blob/main/Skype.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.884fc1fc70db7539
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +47,7 @@
 <div>
 
 <div align="center">
-  Thanks!
+	<h2>Thanks!</h2>
 </div>
 
 
