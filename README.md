@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://github.com/goldenfly/goldenfly/blob/main/logo.png">&nbsp;&nbsp;&nbsp;To the Infinity and the Beyond! </h2>
+<h2 align="center"><img src="https://github.com/goldenfly/goldenfly/blob/main/logo1.png">&nbsp;&nbsp;&nbsp;To the Infinity and the Beyond! </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
 <br>
