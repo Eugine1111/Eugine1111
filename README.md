@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=To+the+Infinity;and+the+Beyond!" alt="Title"></img>
-</div>
+<h2 align="center"><img src="https://github.com/goldenfly/goldenfly/blob/main/logo.png">&nbsp;&nbsp;&nbsp;To the Infinity and the Beyond! </h2>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<hr>
+<br>
 
-
+<h4 align="center">Skills</h4>
+<hr>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -33,21 +35,21 @@
 
 <div>
 	<h5>
-		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/BigBen3918/BigBen/blob/main/Gmail.svg" />
+		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/goldenfly/goldenfly/blob/main/Gmail.svg" />
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldenfly1111@gmail.com
 	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	</h5>
 	<h5>
-		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Skype.png" />
+		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/goldenfly/goldenfly/blob/main/Skype.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.884fc1fc70db7539
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/BigBen3918/BigBen3918/blob/main/Githbu.png" />
+		<img align="center" alt="Silence | GitHub" width="28px" src="https://github.com/goldenfly/goldenfly/blob/main/Githbu.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/goldenfly
 	</h5>
 <div>
 
 <div align="center">
-  :heart_eyes: Thanks! :wink: 
+  Thanks!
 </div>
 
 
