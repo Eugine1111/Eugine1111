@@ -1,6 +1,6 @@
 <h2 align="center">To the Infinity and the Beyond! </h2>
 <hr>
-<br>
+
 
 <h2>Skills</h2>
 <hr>
