@@ -1,9 +1,4 @@
-<h2 align="center">To the Infinity and the Beyond! </h2>
-<hr>
 
-
-<h2>Skills</h2>
-<hr>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -30,7 +25,7 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 
 
-## <img src='https://github.com/goldenfly/goldenfly/blob/main/shake.gif' width="80px" /> You Can Contact Me Via
+## <img src='https://github.com/goldenfly/goldenfly/blob/main/shake.gif' width="80px" />
 
 <div>
 	<h5>
