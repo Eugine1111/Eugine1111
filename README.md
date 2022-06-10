@@ -25,20 +25,3 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 
 
-## <img src='https://github.com/goldenfly/goldenfly/blob/main/shake.gif' width="80px" />
-
-<div>
-	<h5>
-		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/goldenfly/goldenfly/blob/main/Gmail.svg" />
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldenfly1111@gmail.com
-	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/goldenfly/goldenfly/blob/main/Skype.png" />
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;live:.cid.265261beae33191e
-	</h5>
-<div>
-
-<div align="center">
-	<h2>Thanks!</h2>
-</div>
-
-
