@@ -38,8 +38,8 @@
    <tbody>
         <tr>
             <td>
-                <a href="https://www.cryptowolf.finance">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/cryptowolf.finance.png?raw=true" width="300">
+                <a href="https://moedasdigitais.net">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/a861e974aead941dd5f0e84066fead386fc779ce/moedasdigitais.net.png?raw=true" width="300">
                     <p align="center">Defi</p>
                 </a>
             </td>
@@ -50,8 +50,8 @@
                 </a>
             </td>
             <td>
-                <a href="https://www.theapesofficial.com">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/theapesofficial.com.png?raw=true" width="300">
+                <a href="https://www.wallstreetwolves.io">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/a861e974aead941dd5f0e84066fead386fc779ce/www.wallstreetwolves.io.png?raw=true" width="300">
                     <p align="center">NFT marketplace</p>
                 </a>
             </td> 
