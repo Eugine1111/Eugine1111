@@ -11,64 +11,50 @@
 
 ## Projects
 <table>
-    <thead align="center">
-        <tr>
-            <td>Filda Defi</td>
-            <td>Dragon Aurum</td>           
-            <td>CEX</td>
-            <td>Token market</td>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td>
-                <a href="https://filda.io/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/01_filda.png?raw=true" width="200">
-                    <p align="center">Filda Defi</p>
+                <a href="https://mlgblockchain.com">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/MLG%20Blockchain.png?raw=true" width="300">
+                    <p align="center">MLG Blockchain</p>
                 </a>
             </td>
             <td>
-                <a href="https://qiswap.com">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/dcau.png?raw=true" width="200">
-                    <p align="center">DCAU-DeFi&NFT marketplace</p>
+                <a href="https://soramitsu.co.jp">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/SORAMITSU.png?raw=true" width="300">
+                    <p align="center">SORAMITSU</p>
                 </a>
             </td>           
             <td>
-                <a href="https://www.cointral.com/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/04_cointral.png?raw=true" width="200">
-                    <p align="center">CEX</p>
+                <a href="https://devsdata.com">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/DEVSDATA.png?raw=true" width="300">
+                    <p align="center">DEVSDATA</p>
                 </a>
-            </td>
-            <td>
-                <a href="https://hashtag.space">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/03_hashtag.png?raw=true" width="200">
-                    <p align="center">Token Marketing place</p>
-                </a>
-            </td>                      
+            </td>                           
         </tr>
   </tbody>
 </table>
 <table>
-    <thead align="center">
-        <tr>
-            <td>Avalanche Defi</td>
-            <td>NFT marketplace</td>
-        </tr>
-   </thead>
    <tbody>
         <tr>
             <td>
-                <a href="https://staking.snowball.network/">
-                    <img src="https://github.com/kroim/profile/blob/master/projects/pearl.png?raw=true" width="200">
-                    <p align="center">Avalanche Defi</p>
+                <a href="https://www.cryptowolf.finance">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/cryptowolf.finance.png?raw=true" width="300">
+                    <p align="center">Defi</p>
                 </a>
             </td>
             <td>
-                <a href="https://leda.jup.io/">
-                    <img src="https://github.com/snowwhitedev/profile_stuff/blob/master/05_snowball.png?raw=true" width="200">
+                <a href="https://dex.atarichain.com">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/dex.atarichain.com.png?raw=true" width="300">
+                    <p align="center">DEX</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://www.theapesofficial.com">
+                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/theapesofficial.com.png?raw=true" width="300">
                     <p align="center">NFT marketplace</p>
                 </a>
-            </td>                      
+            </td> 
         </tr>
     </tbody>
 </table>
