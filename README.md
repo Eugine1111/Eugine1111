@@ -14,22 +14,16 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://mlgblockchain.com">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/MLG%20Blockchain.png?raw=true" width="300">
-                    <p align="center">MLG Blockchain</p>
-                </a>
+                    <img src="https://github.com/Eugine1111/Eugine1111/blob/be026102c1f78c66302d4f722639f930365e7f9b/Marketing%20platform%20for%20dog%20owners.png?raw=true" width="300" height='180'>
+                    <p align="center">Marketing platform for dog owners</p>
             </td>
             <td>
-                <a href="https://soramitsu.co.jp">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/SORAMITSU.png?raw=true" width="300">
-                    <p align="center">SORAMITSU</p>
-                </a>
+                    <img src="https://github.com/Eugine1111/Eugine1111/blob/be026102c1f78c66302d4f722639f930365e7f9b/blockchain%20based%20social%20ecosystem.png?raw=true" width="300" height='180'>
+                    <p align="center">Blockchain based social ecosystem</p>
             </td>           
             <td>
-                <a href="https://devsdata.com">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/DEVSDATA.png?raw=true" width="300">
-                    <p align="center">DEVSDATA</p>
-                </a>
+                    <img src="https://github.com/Eugine1111/Eugine1111/blob/be026102c1f78c66302d4f722639f930365e7f9b/cryptocurrency%20trading%20wallet.png?raw=true" width="300" height='180'>
+                    <p align="center">Cryptocurrency trading wallet</p>
             </td>                           
         </tr>
   </tbody>
@@ -38,22 +32,16 @@
    <tbody>
         <tr>
             <td>
-                <a href="https://moedasdigitais.net">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/a861e974aead941dd5f0e84066fead386fc779ce/moedasdigitais.net.png?raw=true" width="300">
-                    <p align="center">Defi</p>
-                </a>
+                    <img src="https://github.com/Eugine1111/Eugine1111/blob/be026102c1f78c66302d4f722639f930365e7f9b/decentralized%20data%20marketplace.png?raw=true" width="300" height='180'>
+                    <p align="center">Decentralized data marketplace</p>
             </td>
             <td>
-                <a href="https://dex.atarichain.com">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/38f63c8a1b17d5ba5cc5e6299d7d4596bdfa6f8c/dex.atarichain.com.png?raw=true" width="300">
-                    <p align="center">DEX</p>
-                </a>
+                    <img src="https://github.com/Eugine1111/Eugine1111/blob/be026102c1f78c66302d4f722639f930365e7f9b/fleet%20management.png?raw=true" width="300" height='180'>
+                    <p align="center">Fleet management</p>
             </td>
             <td>
-                <a href="https://www.wallstreetwolves.io">
-                    <img src="https://github.com/goldenfly/goldenfly/blob/a861e974aead941dd5f0e84066fead386fc779ce/www.wallstreetwolves.io.png?raw=true" width="300">
-                    <p align="center">NFT marketplace</p>
-                </a>
+                    <img src="https://github.com/Eugine1111/Eugine1111/blob/be026102c1f78c66302d4f722639f930365e7f9b/food%20delivery%20mobile%20app.png?raw=true" width="300" height='180'>
+                    <p align="center">Food delivery mobile app</p>
             </td> 
         </tr>
     </tbody>
